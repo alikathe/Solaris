@@ -1,0 +1,82 @@
+body {
+    font-family: 'Alegreya Sans', sans-serif;
+    margin-top: 18rem;
+    background-color: black;
+    display: block;
+    margin: 8px;
+}
+#container {
+    width: 1100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header {
+    margin-left: 9%;
+    margin-right: 9%;
+    width: 80%;
+    margin-bottom: 3rem;
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 100;
+    font-size: 5rem;
+    color: rgb(198, 113, 164);
+    margin: 2.8rem 0 0.2rem 0;
+}
+p {
+    font-size: 1.6rem;
+    font-weight: 100;
+    color: ghostwhite;
+    text-align: left;
+}
+a {
+    font-size: 1.6rem;
+    color: rgb(198, 113, 164);
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+footer {
+    margin-left: 9%;
+    margin-right: 9%;
+    width: 80%;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+    text-align: left;
+}
+footer img{
+    float: left;
+    width: 12%;
+    display: block;
+    margin-right: 20px;
+}
+footer a{
+    font-size: 1.2rem;
+}
+#footer{
+    margin-left: 50px;
+    font-size: 1rem;
+}
+footer p{
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: ghostwhite;
+}
+footer span{
+    font-weight: bold;
+}
+.vids {
+    display:inline;
+}
+
+.hidden {
+    display: none;
+}
+.unhidden {
+    display: block;
+}
