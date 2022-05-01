@@ -1,2 +1,2 @@
-# Creación-Musical-interactiva-2
-Obra de creación musical interactiva desarrollada en kalimba y flauta traversa, creada por el compositor Francisco Guzmán Cid de Valparaíso, durante el año 2021.
+# Solaris
+Solaris es una composición musical cuya idea central es transformar una pequeña grabación realizada a partir de un tambor de lengua metálico (tambor "solaris") tipo hang drum, en una obra electroacústica interactiva. El objetivo fue generar sonoridades tímbricas distintas al aplicar distintas herramientas de manipulación digital a la grabación original que sirvió de muestra base para la generación de todos los sonidos que aquí se presentan. Finalmente, Solaris es una obra que permite ser reestructurada por parte de los visitantes del sitio web, quienes pueden elegir libremente cuales y cuantas de las sonoridades conformaran su propia versión de esta obra musical abierta.
